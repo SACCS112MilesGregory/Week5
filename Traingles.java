@@ -16,3 +16,5 @@ public class Traingles
 		}
 	}
 }
+
+// Good job
