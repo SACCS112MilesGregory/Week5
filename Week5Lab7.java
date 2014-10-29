@@ -34,3 +34,4 @@ public class Week5Lab7
 		} while (answer == 1);
 	}
 }
+// Ok for all labs (week 5)
